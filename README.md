@@ -261,7 +261,7 @@ git push -u origin feature/modelo-arima
 
 ---
 
-### 🔗 Se Conecte e Fale comigo no Linkedin🤝
+### Se Conecte e Fale comigo no Linkedin🤝
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/fabiomarcolia/)
 
