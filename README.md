@@ -265,10 +265,13 @@ git push -u origin feature/modelo-arima
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/fabiomarcolia/)
 
+- [Roadmaps de Carreira](https://topmate.io/fabiomarcolia/1629067)
+
 
 ### Autor
 
 - [Fabio Marçolia](https://github.com/fabiomarcolia)
+
 
 
 
